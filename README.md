@@ -1,2 +1,4 @@
 # Study
-이것저것 정리하려고 만든 깃
+algoryth
+CS
+interview questions
